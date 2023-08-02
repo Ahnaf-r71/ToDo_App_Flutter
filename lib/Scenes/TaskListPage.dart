@@ -60,6 +60,7 @@ class _TaskListPageState extends State<TaskListPage> {
 
         },
         child:Icon(Icons.add,color:Colors.white),
+        backgroundColor: Colors.black87,
 
       ),
     );
